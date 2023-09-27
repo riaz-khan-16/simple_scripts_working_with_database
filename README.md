@@ -1,4 +1,4 @@
-# Task 1 simple_scripts_working_with_database
+# Task 2 simple_scripts_working_with_database
 
 
 I have made a basic User management system for a company
